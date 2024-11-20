@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Screens/HomeScreen.qml</file>
+        <file>../Images/chat-svgrepo-com.svg</file>
+        <file>Screens/LoginScreen.qml</file>
+    </qresource>
+</RCC>
