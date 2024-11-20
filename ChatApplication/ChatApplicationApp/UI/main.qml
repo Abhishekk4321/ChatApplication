@@ -8,7 +8,9 @@ ApplicationWindow
     visible: true
     height: 900
     width: 900
-    HomeScreen{
+
+    LoginScreen
+    {
 
     }
 

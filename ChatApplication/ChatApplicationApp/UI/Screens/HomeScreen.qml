@@ -93,6 +93,5 @@ Rectangle
            top: header.bottom
        }
 
-       color: "red"
     }
 }
